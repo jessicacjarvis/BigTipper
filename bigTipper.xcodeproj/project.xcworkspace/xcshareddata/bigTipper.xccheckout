@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A2A5BAF-98FC-413A-878C-D55F4949AD7C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bigTipper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81CD3D3FCDB4B378C85649ED700E29201EF709FB</key>
+		<string>https://github.com/jessicacjarvis/BigTipper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bigTipper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81CD3D3FCDB4B378C85649ED700E29201EF709FB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jessicacjarvis/BigTipper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81CD3D3FCDB4B378C85649ED700E29201EF709FB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81CD3D3FCDB4B378C85649ED700E29201EF709FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BigTipper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
